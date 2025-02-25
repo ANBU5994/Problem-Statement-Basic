@@ -1,6 +1,6 @@
 #You have three hidden numbers, and your mission is to find out which one is the 
 #greatest. Write a program that can reveal the highest of these three numbers.
-#8A. Perform the above operation using ternary operator.
+# 8A. Perform the above operation using ternary operator.
 
 a=int(input("enter the number 1"))
 b=int(input("enter the number 2"))
