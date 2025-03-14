@@ -8,8 +8,7 @@ For medium level water, the time estimate is 35 minutes, where approximately wei
 between 2001 grams and 4000 grams.
 For high level water, the time estimate is 45 minutes, where approximately weight is 
 above 4000 grams. Assume the capacity of machine is maximum 7000 grams. 
-When the weight is zero, time needed is 
-0
+When the weight is zero, time needed is 0
 minutes. 
 If the weight exceeds maximum weight limit, then, print “OVERLOADED”, and for all 
 negative weights, the output is “INVALID INPUT”.
